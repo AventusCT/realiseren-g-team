@@ -1,4 +1,30 @@
 body {
+    background-color: black;
+    background-size: cover;
     font-family: Arial, sans-serif;
     margin: 20px;
 }
+html {
+    border-color: goldenrod;
+    border-style: solid;
+    height: 100%;
+    margin: 50px;
+}
+h1 {
+    color:goldenrod
+    
+}
+p {color:goldenrod}
+ .container{
+    display: flex;
+    background-color:black;
+    flex-direction: column;
+    align-items: center;}
+.container1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;}
+.container2{
+            display:flex;
+            flex-direction: row;
+            justify-content: space-around;}
