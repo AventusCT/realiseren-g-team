@@ -28,3 +28,14 @@ p {color:goldenrod}
             display:flex;
             flex-direction: row;
             justify-content: space-around;}
+button{
+    background-color: black;
+    font-family: Arial, sans-serif;
+    color: goldenrod;
+    font-size:20px;
+    border:none;}
+.container3{ display: flex;
+    background-color:black;
+    flex-direction: row;
+    justify-content:center;    
+}
